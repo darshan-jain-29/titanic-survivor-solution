@@ -3,6 +3,9 @@
 Well, my first ever Machine Learning problem-solving experience.
 The Titanic dataset - predicting survival of the passengers on board - by Kaggle. It was a great experience. I had to go through many blogs, pdfs and videos because I was doing hands-on ML coding for the first time. 
 
+Ranked in the top 8% for my submissions. 
+Leaderboard link: https://lnkd.in/fvMRHmJ
+
 To explain my journey I did the following things:-
 1. Read the training and test data from excel
 
